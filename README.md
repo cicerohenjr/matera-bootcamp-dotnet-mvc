@@ -14,22 +14,21 @@ Compreender a construção de software utilizando o ecossistema Microsoft. O obj
 
 ## 📂 Estrutura do Aprendizado (Trilha do Curso)
 
-* **Dia 01: Fundamentos e Arquitetura**
+* **Dia 01: Dev - Fundamentos e Arquitetura (Módulos 1 a 6)**
   * Relação Cliente x Servidor e protocolo HTTP.
   * Padrão de arquitetura MVC (Model-View-Controller).
-  * Configuração do ambiente no Visual Studio.
+  * Configuração do ambiente no Visual Studio e Interface (Razor/Bootstrap).
 
-* **Dia 02: Integração e Banco de Dados (Hands-on)**
-  * Modelagem de dados com SQL Server.
-  * Acesso a dados com Entity Framework Core.
-  * Criação de Views com Razor (HTML + C#) e Bootstrap.
+* **Dia 02: Dev - Hands-on e Projeto Prático (Módulos 7 a 9)**
+  * Modelagem de banco de dados com SQL Server e Entity Framework Core.
   * Fluxo CRUD completo (Create, Read, Update, Delete).
+  * Segurança (Autenticação/Autorização) e testes funcionais do projeto.
 
-* **Dia 03: Segurança e Deploy**
-  * Autenticação e Autorização.
-  * Testes funcionais e ajustes visuais.
-  * Preparação para o ambiente de produção.
-
+* **Dia 03: Carreira e Próximos Passos (Módulo 10 + Mentoria)**
+  * Estruturação para Deploy e Monitoramento em produção.
+  * Preparação estratégica para Processos Seletivos e Soft Skills.
+  * Mentoria sobre plano de carreira e o futuro do ecossistema .NET.
+    
 ## 🎓 Certificação
 O certificado de conclusão do Bootcamp pode ser verificado na pasta `/assets` deste repositório.
 
